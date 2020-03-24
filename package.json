@@ -1,0 +1,28 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "countdowntimer": "^2.0.1",
+    "discord.js": "^11.5.1",
+    "download-file": "^0.1.5",
+    "https": "^1.0.0",
+    "long": "^4.0.0",
+    "moment": "^2.24.0",
+    "moment-duration-format": "^2.3.2",
+    "mongoose": "^5.6.3",
+    "ms": "^2.1.2",
+    "nodemon": "^2.0.2",
+    "opusscript": "0.0.7",
+    "weather-js": "^2.0.0",
+    "weather.js": "^0.1.0",
+    "yt-search": "^0.4.1",
+    "ytdl-core": "^1.0.3"
+  }
+}
